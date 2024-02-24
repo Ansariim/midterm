@@ -1,0 +1,50 @@
+body{
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+    border: solid blue 2px;
+    padding: 10px;
+    font: italic;
+}
+header{
+    text-align: center;
+    font: size 30px;
+    font-weight: bold;
+    font-weight: bold;
+    border: solid orange;
+    background-color:yellow;
+    color: brown;
+    padding-bottom: 10px;
+}
+main{
+    height: 70vh;
+}
+img{
+    border-width: 90%;
+    height: 80%;
+    background-color: orange;
+    width: 45%;
+    height: 60%;
+    margin: auto;
+    padding: 10px;
+}
+footer{
+    text-align: center;
+    border: solid yellow;
+    background-color: yellow;
+    color: blue;
+    font-size: 30px;
+    font-style: bold;
+}
+ul{
+    list-style: square;
+}
+h2{
+    color: brown;
+}
+p{
+    font-size: 20px;
+    font-style: calc();
+}
+
+
